@@ -10,6 +10,11 @@ Este projeto visa melhorar a eficiência operacional e a tomada de decisões fin
 
     Diagrama de Classes
     Requisitos (RF e RNF)
+    Descrição do sistema
+    Documento Plano de testes
+    Modelo Logico
+## Link do artigo: 
+https://www.overleaf.com/read/xhkggkdxqsqf#9d8107
 
 ## Equipe
 
