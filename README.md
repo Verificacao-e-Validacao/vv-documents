@@ -10,6 +10,11 @@ Este projeto visa melhorar a eficiência operacional e a tomada de decisões fin
 
     Diagrama de Classes
     Requisitos (RF e RNF)
+    Descrição do sistema
+    Documento Plano de testes
+    Modelo Logico
+## Link do artigo: 
+https://www.overleaf.com/read/xhkggkdxqsqf#9d8107
 
 ## Equipe
 
@@ -17,7 +22,7 @@ Este projeto visa melhorar a eficiência operacional e a tomada de decisões fin
 - [Dalton Campos](https://github.com/daltonfcampos)
 - [Paulina Julia](https://github.com/paulinaJulia)
 - [Emanuela Lima](https://github.com/Emanuelalima)
-- [Iverton Emicson](https://github.com/IVERTON-EMIQUISON)
+- [Iverton Emiquison](https://github.com/IVERTON-EMIQUISON)
 
 
 Este README fornece uma visão geral do projeto, incluindo suas descrição, requisitos, Diagramade classes e informações sobre a contribuição e a equipe envolvida.
