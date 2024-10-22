@@ -7,21 +7,25 @@ Curso: [Bacharel em Engenharia de Software](https://engsoftwarepaudosferros.ufer
 Este projeto visa melhorar a eficiência operacional e a tomada de decisões financeiras de um mercado, oferecendo um sistema de gerenciamento de mercadorias que permite cadastrar, editar, excluir, buscar e listar mercadorias de maneira ágil e detalhada.
 
 ## Sobre os documentos
-
+    Artigo em Pdf
     Diagrama de Classes
-    Requisitos (RF e RNF)
+    Diagrama Caso de uso
     Descrição do sistema
+    Documentação das clases em pdf
     Documento Plano de testes
+    Documento Requisitos (RF e RNF)
     Modelo Logico
+    Plano de teste e Relatorio dos testes
+    
 ## Link do artigo: 
 https://www.overleaf.com/read/xhkggkdxqsqf#9d8107
-
+## Link do site:
+https://mercado-facil.ufersa.dev.br/login/?next=/
 ## Equipe
 
 - [Alan Almeida](https://github.com/AlanTddy) 
 - [Dalton Campos](https://github.com/daltonfcampos)
 - [Paulina Julia](https://github.com/paulinaJulia)
-- [Emanuela Lima](https://github.com/Emanuelalima)
 - [Iverton Emiquison](https://github.com/IVERTON-EMIQUISON)
 
 
